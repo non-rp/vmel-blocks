@@ -1,0 +1,25 @@
+{
+  "name": "vmel-blocks",
+  "version": "1.0.0",
+  "description": "A set of custom Gutenberg blocks built with a modern build pipeline (Tailwind CSS) and an OOP PHP architecture for WordPress.",
+  "main": "index.js",
+	"scripts": {
+		"start": "wp-scripts start",
+		"build": "wp-scripts build"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/non-rp/vmel-blocks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/non-rp/vmel-blocks/issues"
+  },
+  "homepage": "https://github.com/non-rp/vmel-blocks#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "^31.5.0"
+  }
+}
